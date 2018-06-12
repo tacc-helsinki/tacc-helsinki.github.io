@@ -1,7 +1,6 @@
 ---
 layout: page
-title: Theoretical and Computational Chemistry group, University of Helsinki.
-
+title: TACC
 permalink: /
 ---
 
