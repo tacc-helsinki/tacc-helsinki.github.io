@@ -12,6 +12,8 @@ permalink: /people/
 
 * Dage Sundholm
 
+* Pekka Pyykkö
+
 * Mikael Johansson
   * [Group page](https://blogs.helsinki.fi/johansson-group/research/)
 
