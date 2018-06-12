@@ -14,12 +14,12 @@ The webpage is hosted on github pages, built on top of [Jekyll Now](https://gith
 ## People
 * How should the people be partitioned?
 * Some sort of model for people object with following fields:
- * Name
- * Picture
- * Status (pi, researcher, postdoc, phd student, student, visitor, alumni)
- * Personal webpage
- * Email
- * Description
+  * Name
+  * Picture
+  * Status (pi, researcher, postdoc, phd student, student, visitor, alumni)
+  * Personal webpage
+  * Email
+  * Description
 
 * Personal webpage could easily be rendered from a such model, /people/firstname_lastname/
 
